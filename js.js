@@ -1,5 +1,5 @@
 let reza = document.getElementById("reza")
 
-reza.addEventListener("click",()=>{
+reza.addEventListener("mousemove",()=>{
     reza.style.color="pink"
 })
